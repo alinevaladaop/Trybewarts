@@ -1,0 +1,195 @@
+.header {
+  display: flex;
+  background-color: rgb(50, 167, 145);
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: rgb(204, 249, 234);
+  font-size: 20px;
+  color: rgb(6, 25, 1);
+  margin-top: 50px;
+}
+
+.trybewarts-login {
+  display: flex;
+}
+
+#evaluation-form {
+  display: flex;
+  width: 675px;
+  flex-direction: column;
+}
+
+.main {
+  display: flex;
+  background-color: rgb(240, 238, 238);
+}
+
+.trybewarts-header-logo {
+  height: 50px;
+}
+
+#trybewarts-header-title {
+  font-size: 25px;
+  color: white;
+  margin-top: 20px;
+  font-family:'Gill Sans';
+
+}
+
+#trybewarts-forms-logo {
+  height: 500px;
+  display: flex;
+  max-width:350px;
+  margin-left: 200px;
+}
+
+#email {
+  border-radius: 10px;
+  height: 30px;
+  margin-top: 15px;
+  margin-right: 10px;
+  border: none;
+}
+
+#senha {
+  border-radius: 10px;
+  height: 30px;
+  margin-top: 15px;
+  margin-right: 10px;
+  border: none;
+
+}
+
+#login-btn {
+  border-radius: 10px;
+  background-color: rgb(75, 13, 134);
+  color: white;
+  height: 32px;
+  margin-top: 15px;
+  margin-right: 10px;
+  width: 150px;
+  border: none;
+}
+
+#titulo-fomulario {
+  font-size: 25px;
+  text-align: center;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#input-name , #input-lastname , #input-email{
+  border-radius: 5px;
+  height: 30px;
+  width: 230px;
+  margin-top: 10px;
+  border: none;
+}
+
+#house {
+  border-radius: 5px;
+  height: 30px;
+  width: 230px;
+  margin-top: 10px;
+  border: none;
+  font-family:'Gill Sans';
+
+}
+
+#linha {
+  size: 100px;
+  width: 100%;
+}
+
+.divs {
+  width: 675px;
+  font-family:'Gill Sans';
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.estudos {
+  display: flex;
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 675px;
+  font-family:'Gill Sans';
+
+}
+
+.programacao {
+  width: 675px;
+  margin-top: 20px;
+  margin-left: 20px;
+
+  margin-bottom: 20px;
+  font-family:'Gill Sans';
+
+}
+
+#comentario {
+  resize: none;
+  border-radius: 10px;
+  box-shadow: 5px 5px 5px rgb(4, 122, 63);
+  margin-top: 10px;
+  
+}
+
+#label-content {
+  margin-top: 50px;
+  font-family:'Gill Sans';
+
+}
+
+#label-family{
+  margin-top: 20px;
+}
+
+#label-rate{
+  margin-top: 20px;
+  margin-left: 20px;
+  width: 675px;
+}
+
+#label-rate{
+  font-family:'Gill Sans';
+}
+
+.numbersdiv{
+  display: flex;
+  font-family:'Gill Sans';
+  margin-top: 10px;
+}
+
+.number{
+  margin-left: 10px;
+}
+
+.textarea{
+  margin-top: 50px;
+  margin-left: 20px;
+  margin-bottom: 0px;
+  font-family:'Gill Sans';
+}
+
+#submit-btn{
+  border-radius: 10px;
+  background-color: rgb(75, 13, 134);
+  color: white;
+  height: 32px;
+  margin-top: 15px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border: none;
+}
+
+#footer {
+  font-family:'Gill Sans';
+  background-color: darkgrey;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+}
